@@ -33,7 +33,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/nox-it/yii2-nox-http-soap-client"
+      "url": "https://github.com/nox-it/yii2-nox-files"
     }
   ]
 }
