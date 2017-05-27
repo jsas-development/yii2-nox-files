@@ -102,3 +102,4 @@ _shortcuts
 # Other #
 ######################
 /.admin
+/upstream.sh
