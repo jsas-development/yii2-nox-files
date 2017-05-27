@@ -25,7 +25,15 @@
   "require": {
     "php": ">=5.4.0",
     "nox-it/yii2-nox": "1.*",
-    "nox-it/yii2-nox-helpers": "1.*"
+    "nox-it/yii2-nox-helpers": "1.*",
+    "nox-it/yii2-nox-mvc": "1.*",
+    "nox-it/yii2-nox-migration": "1.*",
+    "nox-it/yii2-nox-curl": "1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "nox\\files\\manager\\": "manager"
+    }
   },
   "config": {
     "process-timeout": 1800
